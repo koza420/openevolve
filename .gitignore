@@ -41,6 +41,9 @@ ENV/
 examples/*/output/
 openevolve_output*/
 *.log
+openevolve_output/
+outputs/
+runs/
 
 # Test cache
 .pytest_cache/
